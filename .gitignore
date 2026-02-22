@@ -1,0 +1,6 @@
+# temp file
+*.tmp
+*.log
+# OS file
+.DS_Store
+Thunbs.db
